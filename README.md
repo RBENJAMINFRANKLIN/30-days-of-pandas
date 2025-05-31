@@ -10,4 +10,5 @@ Python Pandas Questions from Leetcode
 | [0183-customers-who-never-order](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/0183-customers-who-never-order) |
 | [1258-article-views-i](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1827-invalid-tweets) |
+| [2024-calculate-special-bonus](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
