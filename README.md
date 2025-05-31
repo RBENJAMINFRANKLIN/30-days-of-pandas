@@ -9,4 +9,5 @@ Python Pandas Questions from Leetcode
 | [1908-recyclable-and-low-fat-products](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1908-recyclable-and-low-fat-products) |
 | [0183-customers-who-never-order](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/0183-customers-who-never-order) |
 | [1258-article-views-i](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
