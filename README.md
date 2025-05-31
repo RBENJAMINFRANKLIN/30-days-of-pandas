@@ -12,4 +12,5 @@ Python Pandas Questions from Leetcode
 | [1827-invalid-tweets](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1827-invalid-tweets) |
 | [2024-calculate-special-bonus](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/2024-calculate-special-bonus) |
 | [1811-fix-names-in-a-table](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1811-fix-names-in-a-table) |
+| [1670-patients-with-a-condition](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
