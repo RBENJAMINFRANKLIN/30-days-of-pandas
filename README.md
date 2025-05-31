@@ -14,4 +14,5 @@ Python Pandas Questions from Leetcode
 | [1811-fix-names-in-a-table](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1811-fix-names-in-a-table) |
 | [1670-patients-with-a-condition](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1670-patients-with-a-condition) |
 | [0177-nth-highest-salary](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/0177-nth-highest-salary) |
+| [0176-second-highest-salary](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
