@@ -5,4 +5,4 @@ left join examinations e on
 s.student_id = e.student_id
 and sj.subject_name = e.subject_name
 group by s.student_id, s.student_name ,sj.subject_name
-order by s.student_id,S.student_name,sj.subject_name;
+order by s.student_id,sj.subject_name;
