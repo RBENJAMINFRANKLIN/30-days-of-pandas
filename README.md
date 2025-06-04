@@ -19,4 +19,5 @@ Python Pandas Questions from Leetcode
 | [1948-rearrange-products-table](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1948-rearrange-products-table) |
 | [1837-daily-leads-and-partners](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1837-daily-leads-and-partners) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1415-students-and-examinations](https://github.com/RBENJAMINFRANKLIN/30-days-of-pandas/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
